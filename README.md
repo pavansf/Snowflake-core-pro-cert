@@ -1,1 +1,1 @@
-# Snowflake-core-pro-cert
+# Snowflake-core-pro-certification
